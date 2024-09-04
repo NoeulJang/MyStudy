@@ -8,8 +8,16 @@
   3) 반환 값이 있는 메서드의 경우, return문을 생략
   4) 식의 끝에 세미콜론 ' ; '을 붙이지 않음
   5) 람다식에 선언된 매개변수의 타입 또한 생략가능
+![image](https://github.com/user-attachments/assets/23812501-d713-475b-9937-bc7b95b432c1)
+
   6) 만약 매개변수가 하나뿐인 경우에는 괄호( )를 생략할 수 있음. 단, 매개변수의 타입이 있으면 괄호()를 생략할 수 없음
+![image](https://github.com/user-attachments/assets/905e9f74-ac7b-45d7-9056-d2159a540461)
+
   7)또한 중괄호{} 안의 문장이 하나일 때는 중괄호를 생략가능. 문장의 끝에 세미콜론' ; '을 붙이지 않음. 단, 중괄호{} 안의 문장이 return문일 경우 중괄호를 생략할 수 없고 문장의 끝에 세미콜론도 생략하지 않음
+
+  ※ 메소드 -> 람다식 변환 예제
+![image](https://github.com/user-attachments/assets/691e83e0-e5f4-493e-8b94-847088b9367f)
+
 
 2.Method Reference (메소드 참조)
 3.Stream (스트림)
