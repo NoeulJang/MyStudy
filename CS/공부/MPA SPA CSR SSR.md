@@ -61,8 +61,11 @@ TTI (Time To Interact) : 사용자가 어플리케이션 화면과 "상호작용
 즉 TTV가 빠르면 화면이 빠르게 보이는 것이며, TTI이 빠르다면 웹을 빠르게 사용할 수 있다는 것이다.
 
 
-정리 
-  우선 SPA = CSR인가, MPA = SSR인가에 대해부터 말해야 할 것 같다.
+
+
+[정리] 
+ 
+우선 SPA = CSR인가, MPA = SSR인가에 대해부터 말해야 할 것 같다.
   
 결론적으로는 아니다. SPA/MPA는 페이지 수를 기준으로, CSR/SSR은 렌더링이 되는 위치를 기준으로 구분한다고 한다.
 
@@ -79,6 +82,7 @@ vue를 공부하면서 새로고침없이 컴포넌트들이 수정되는것을 
 다만 아무리 찾아봐도 나오지않는 별거 아닌 궁금증이 하나 남아있는데..
 
 굳이 굳이 JSP 페이지 여러개에 AJAX로 화면전환을 모두 처리한다면 이는 MPA에 CSR방식을 사용하는 것일까 좀 더 찾아봐야겠다. 
+
 
 
 [참고] https://velog.io/@rookieand/CSR-SSR-SPA-MPA-%EC%9D%B4%EA%B2%83%EB%93%A4%EC%9D%80-%EB%AD%98%EA%B9%8C#2-mpa-multiple-page-application
