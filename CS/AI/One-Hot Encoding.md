@@ -28,5 +28,7 @@
         자연어 처리라는 개념에 대해서 어렴풋이 알고만 있었는데 이번 공부를 통해 윤곽이 잡히지 않았나 싶다. 
 
 
+[참고1] : https://wikidocs.net/22647
+[참고2] : [https://wikidocs.net/22647](https://bigdatamaster.tistory.com/177)
 
   
